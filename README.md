@@ -71,7 +71,7 @@
   5. Finally your golden idea...
 
 ## Reference
-Inspired by the article [Rodolfo Ferro](https://www.codementor.io/@ferrorodolfo/sentiment-analysis-on-trump-s-tweets-using-python-pltbvb4xr)
+Inspired by the article <a href="https://www.codementor.io/@ferrorodolfo/sentiment-analysis-on-trump-s-tweets-using-python-pltbvb4xr" target="_blank">Rodolfo Ferro</a>
  
  Thank You! Have a great day 😄
   
