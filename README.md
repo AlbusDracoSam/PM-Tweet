@@ -17,6 +17,7 @@
   To extract data from the we should have a twitter developer account. After having an developer account generate the credentials and insert in the notebook as in the repo.
   Once the credentials and connections are triggered we are good to go.
   With this we can extract any twiiter handle. Here we focus on Indian PM.
+  Every tweet has around 30 features such as tweet content , date , number of likes , retweets , device etc.,
  
  ## Transform and Analyse
   After extracting the tweets it's completely looks like messed up. Next step we have to transform the data so that it could be analysable. After transformation we do some statistical analysis of the tweets. 
@@ -42,4 +43,36 @@
 
 ## Frequent words
   Let's find how many times he tweeted about **ELECTIONS**. He tweeted 20 times about the elections.
+  
+  <img src = "elections.jpg" width="400" height="400">
+  
+  Correlations between the tweet's features:
+  
+  <img src = "correlation.jpg" width="400" heigth="400">
+  
+  Sentiment analysis result :
+  
+  <img src = "sentiment.jpg" width="400" heigth="400">
+
+  Word cloud:
+  
+  Boxes are because of the Language mismatch. PM used Hindi and other languages also so wordcloud can't plot the other languages in the cloud.
+  
+  <img src = "wordcloud.jpg" width="400" heigth="400">
+ 
+## Conclusion
+
+  Hope you enjoyed and learnt a lot. Things which can be added in the project:
+  
+  1. Classify tweets by devices.
+  2. Word count by separate years.
+  3. Deep analysis of Negative tweets.
+  4. Extract State name mentioned frequently
+  5. Finally your golden idea...
+ 
+ Thank You! Have a great day 😄
+  
+  
+   
+
   
