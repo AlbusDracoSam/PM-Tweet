@@ -69,6 +69,9 @@
   3. Deep analysis of Negative tweets.
   4. Extract State name mentioned frequently
   5. Finally your golden idea...
+
+## Reference
+Inspired by the article [Rodolfo Ferro](https://www.codementor.io/@ferrorodolfo/sentiment-analysis-on-trump-s-tweets-using-python-pltbvb4xr)
  
  Thank You! Have a great day 😄
   
